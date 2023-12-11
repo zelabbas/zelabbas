@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zakariaa Elabbasii</h1>
 <h3 align="center">Exploring the vast realms of knowledge.</h3>
-<img align="right"  width ="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w" alt="coding">
+<img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelabbas&label=Profile%20views&color=0e75b6&style=flat" alt="zelabbas" /> </p>
 
