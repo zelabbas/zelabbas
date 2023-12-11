@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I think**
 
+[![<zelabbas>'s 42 stats](https://badge.mediaplus.ma/darkblue/zelabbas)](https://github.com/oakoudad/badge42)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zak_zak13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zak_zak13" height="30" width="40" /></a>
