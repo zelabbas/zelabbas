@@ -1,6 +1,7 @@
+![](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Zakariaa Elabbasii</h1>
 <h3 align="center">Exploring the vast realms of knowledge.</h3>
-<img align="right" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=2500w" alt="coding">
+<img align="right" width="400" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelabbas&label=Profile%20views&color=0e75b6&style=flat" alt="zelabbas" /> </p>
 
