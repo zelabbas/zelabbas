@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zak_zak13" target="blank"><img src="https://img.shields.io/twitter/follow/zak_zak13?logo=twitter&style=for-the-badge" alt="zak_zak13" /></a> </p>
 
-- 🔭 I’m currently working on **Philosophers (project of 1337)**
+- 🔭 I’m currently working on **minishell (project of 1337)**
 
 - 🌱 I’m currently learning **python**
 
